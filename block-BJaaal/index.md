@@ -1,9 +1,36 @@
-writeCode
 
-## Template literal
-
-To solve the assignments follow the following instructions:
-
-1. You will find a `index.js` file in the folder named `code`
-2. `index.js` contains all the instructions
-3. Follow the instructions and solve in the same file below each set of instructions.
+﻿
+external.html:39 Live reload enabled.
+const username ="Harish"
+undefined
+username
+'Harish'
+let bio = "learning to code"
+undefined
+bio
+'learning to code'
+let firstname="arya"
+undefined
+firstname
+'arya'
+let lastname= "stark"
+undefined
+lastname
+'stark'
+alert("i am "+username +"and my bio is"+bio)
+undefined
+alert("i am" +firstname +""+lastname +"of winterfell")
+undefined
+alert(`i am ${username} and my bio is ${bio}`)
+undefined
+alert(`i am ${firstname} ${lastname} of winterfell`)
+undefined
+let amount=200;
+undefined
+const taxpercent =10;
+undefined
+alert(`The total amount is ${amount}`)
+undefined
+alert(`The total amount is ${amount} /n and the tax amount is ${amount*taxpercent}/100`)
+undefined
+alert(`The total amount is ${amount} \n and the tax amount is ${amount*taxpercent/100}`)
