@@ -1,9 +1,12 @@
-writeCode
-
-## Loops
-
-To solve the assignments follow the following instructions:
-
-1. You will find a `index.js` in the folder named `code`
-2. `index.js` contains all the instructions
-3. Follow the instructions and solve in the same file below each set of instructions.
+for(let i=1; i<=10; i++){console.log(i)}
+for(let i=1; i<=10; i++){
+if(i %2===0 ) {console.log(i)
+}
+}
+for(let i=1; i<=10; i++){
+    if(i %2===1 ) {console.log(i)
+    }
+    }
+    for(let i=1; i<=10; i++){sum +=i;}
+    console.log("The sum is: " +sum );
+      
