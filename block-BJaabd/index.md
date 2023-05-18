@@ -1,9 +1,32 @@
-writeCode
 
-## Assignment Level 3
+let age = Number(prompt("What is your age?"))
 
-To solve the assignments follow the following instructions:
+if (age>=12 && age<=55){
 
-1. You will find a `index.js` file in the folder named `code`
-2. `index.js` contains all the instructions
-3. Follow the instructions and solve in the same file below each set of instructions.
+alert("you can participate in marathon");
+
+} 
+
+ else if (age >=4 && age <=11 );{
+alert("You are too young to participate in this marathon");
+};
+
+
+ if(age < 4);
+
+{
+   alert ("hey kiddo! can you walk?")
+}
+
+let n = Number(prompt("type the number here "))
+
+let word = 'h' + 'e'.repeat(n) +'llo';
+
+alert(word)
+
+let n = Number(propmt("enter a positive integer"));
+let sum = (n*(n+1)/2);{
+alert(`the sum of first ${n} natural number is ${sum} `)
+
+
+}
